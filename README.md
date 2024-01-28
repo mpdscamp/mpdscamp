@@ -1,8 +1,5 @@
+<h1 align="center">Hi, I'm Marcos Campanha</h1>
 <h3 align="center">Robotics & Machine Learning</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpdscamp" alt="mpdscamp" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
 - 📫 How to reach me **mpdscamp@gmail.com**
 
