@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marcos Campanha</h1>
-<h3 align="center">Computer Engineering student @ Military Institute of Engineering</h3>
-<h3 align="center">Robotics & Machine Learning</h3>
+<h3 align="center">Computer Engineering student @ Instituto Militar de Engenharia</h3>
+<h3 align="center">Interests in Robotics, Computer Vision and Graphics, and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
