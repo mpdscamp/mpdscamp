@@ -1,6 +1,6 @@
 <h1 align="center">Marcos Campanha</h1>
 <h3 align="center">Computer Engineering student @ Instituto Militar de Engenharia</h3>
-<h3 align="center">Interested in Robotics, Computer Vision and Machine Learning</h3>
+<h3 align="center">Interested in Machine Learning, Deep Learning, Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
